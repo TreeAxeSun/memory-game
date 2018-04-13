@@ -1,2 +1,2 @@
-# memory-game
+Simple Matching Game
 The #1 memory game on the planet. All the others just wish they were this good.
