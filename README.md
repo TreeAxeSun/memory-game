@@ -1,12 +1,15 @@
 # Simple Matching Game
 
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)  
 
 
+
 ## Project Description
+
 
 This project is the JavaScript project of the Udacity Front-end Nonodegree Program.   
 The action of the game was produced using JavaScript.  
@@ -22,6 +25,7 @@ After downloading all the files and folders uploaded above, you can launch the g
 
 
 ## Parts of your game
+
 
 The purpose of this game is to match all 16 cards in a total of eight pairs.  
 Each time two cards are opened, the number of **"moves"** icons increases.   
@@ -44,6 +48,7 @@ http://stackoverflow.com/a/2450976
 
 ## How to play  
 
+
 1.	Download all files on this GitHub repository.
 2.	Click the index.html file.
 3.	Click the card with mouse left button.
@@ -51,7 +56,16 @@ http://stackoverflow.com/a/2450976
 5.	If the cards don’t match, the open cards will pause for a while and then close again.
 6.	Click and match cards until all cards are opened.
 7.	When all the cards are paired up, the game is over with a message that shows “Congratulations”.
-8.	Press Restart button if you want to do it again
+8.	Press Restart button if you want to do it again  
+
+
+## Issues/Planed Changes/Roadmap  
+
+
+The star icon next to the number of attempts is a display button for the difficulty that will be added in the next version.  
+The difficulty selection feature is not yet implemented in this game.  
+The next version will be also added a feature to represent the time the user has played.
+
 
 
 
