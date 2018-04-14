@@ -28,10 +28,15 @@ Each time two cards are opened, the number of **"moves"** icons increases.
 This number shows your attempt to match cards.   
 If a total of 16 cards match, the game ends.   
 When you press the **"Restart"**  icon at the top, the game returns to its initial state.  
-The card-shuffling function built into this game was provided by Udaity, and the original link to this code is as follows.  
+
+
+![Alt shuffle_code](./readme_image/game.png)  
+
+
+The card-shuffling function built into this game was provided by Udaity, and the original link to this code is as follows.  
 http://stackoverflow.com/a/2450976  
 
-![Alt shuffle_code](./readme_image/shuffle.PNG)
+![Alt shuffle_code](./readme_image/shuffle.png)
 
 
 
