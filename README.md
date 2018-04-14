@@ -1,6 +1,10 @@
 # Simple Matching Game
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)  
+
 
 ## Project Description
 
@@ -8,9 +12,7 @@ This project is the JavaScript project of the Udacity Front-end Nonodegree Progr
 The action of the game was produced using JavaScript.  
 The design of the game used in this game uses the HTML and CSS code provided by Udacity.
 
-[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+
 
 
 ## How to load the game
