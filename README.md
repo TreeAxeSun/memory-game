@@ -31,7 +31,7 @@ When you press the **"Restart"**  icon at the top, the game returns to its initi
 The card-shuffling function built into this game was provided by Udaity, and the original link to this code is as follows.  
 http://stackoverflow.com/a/2450976  
 
-![Alt shuffle_code](./readme_image/shuffle.png)
+![Alt shuffle_code](./readme_image/shuffle.PNG)
 
 
 
