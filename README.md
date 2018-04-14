@@ -70,7 +70,7 @@ The next version will be also added a feature to represent the time the user has
 ## Author
 
 
-*YoungSeok Ahn
+*YoungSeok Ahn*
 
 
 
