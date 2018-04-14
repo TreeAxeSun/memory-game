@@ -24,10 +24,12 @@ After downloading all the files and folders uploaded above, you can launch the g
 ## Parts of your game
 
 The purpose of this game is to match all 16 cards in a total of eight pairs.  
-Each time two cards are opened, the number of "moves" icons increases.   
+Each time two cards are opened, the number of **"moves"** icons increases.   
 This number shows your attempt to match cards.   
 If a total of 16 cards match, the game ends.   
-When you press the "Restart"  icon at the top, the game returns to its initial state.  
+When you press the **"Restart"**  icon at the top, the game returns to its initial state.  
+The card-shuffling function built into this game was provided by Udaity, and the original link to this code is as follows.  
+http://stackoverflow.com/a/2450976
   
   
 
