@@ -22,22 +22,11 @@ After downloading all the files and folders uploaded above, you can launch the g
 
 ## Parts of your game
 
-The purpose of this game is to match all 16 cards in a total of eight pairs.
-
-
-Each time two cards are opened, the number of moving icons increases. 
-
-
-This number shows your attempt to match cards. 
-
-
-If a total of 16 cards match, the game ends. 
-
-
-Each comparison of the two cards adds a user's count of attempts and the number of attempts to finish the game is displayed at the top of the screen. 
-
-
-When you press the <Restart > icon at the top, the game returns to its initial state.
+The purpose of this game is to match all 16 cards in a total of eight pairs.  
+Each time two cards are opened, the number of "moves" icons increases.   
+This number shows your attempt to match cards.   
+If a total of 16 cards match, the game ends.   
+When you press the "Restart"  icon at the top, the game returns to its initial state.  
   
   
 
