@@ -17,7 +17,6 @@ The design of the game used in this game uses the HTML and CSS code provided by 
 
 ## How to load the game
 
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 
 After downloading all the files and folders uploaded above, you can launch the game by running the index.html file.
 
