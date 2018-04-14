@@ -59,6 +59,9 @@ http://stackoverflow.com/a/2450976
 8.	Press Restart button if you want to do it again  
 
 
+![Alt shuffle_code](./readme_image/matching.gif)
+
+
 ## Issues/Planed Changes/Roadmap  
 
 
