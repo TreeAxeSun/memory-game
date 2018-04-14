@@ -30,7 +30,7 @@ If a total of 16 cards match, the game ends.
 When you press the **"Restart"**  icon at the top, the game returns to its initial state.  
 
 
-![Alt shuffle_code](./readme_image/game.png)  
+![Alt shuffle_code](./readme_image/game1.png)  
 
 
 The card-shuffling function built into this game was provided by Udaity, and the original link to this code is as follows.  
