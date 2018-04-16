@@ -6,9 +6,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)  
 
-This project is the JavaScript project of the Udacity Front-end Nanodegree Program.   
-The action of the game was produced using JavaScript.  
-The design of the game used in this game uses the HTML and CSS code provided by Udacity.
+This project is the JavaScript project of the `Udacity Front-end Nanodegree Program`.   
+The action of the game was produced using `JavaScript`.  
+The design of the game used in this game uses the `HTML` and `CSS` code provided by Udacity.
 
 
 
