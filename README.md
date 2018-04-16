@@ -60,9 +60,9 @@ http://stackoverflow.com/a/2450976
 ## Issues/Planed Changes/Roadmap  
 
 
-*The star icon next to the number of attempts is a display button for the difficulty that will be added in the next version.  
-*The difficulty selection feature is not yet implemented in this game.  
-*The next version will be also added a feature to represent the time the user has played.  
+* The star icon next to the number of attempts is a display button for the difficulty that will be added in the next version.  
+* The difficulty selection feature is not yet implemented in this game.  
+* The next version will be also added a feature to represent the time the user has played.  
 
 
 ## Author
