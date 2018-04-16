@@ -11,7 +11,7 @@
 ## Project Description
 
 
-This project is the JavaScript project of the Udacity Front-end Nonodegree Program.   
+This project is the JavaScript project of the Udacity Front-end Nanodegree Program.   
 The action of the game was produced using JavaScript.  
 The design of the game used in this game uses the HTML and CSS code provided by Udacity.
 
