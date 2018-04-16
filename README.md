@@ -6,11 +6,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)  
 
-
-
-## Project Description
-
-
 This project is the JavaScript project of the Udacity Front-end Nanodegree Program.   
 The action of the game was produced using JavaScript.  
 The design of the game used in this game uses the HTML and CSS code provided by Udacity.
@@ -27,17 +22,17 @@ After downloading all the files and folders uploaded above, you can launch the g
 ## Parts of your game
 
 
-The purpose of this game is to match all 16 cards in a total of eight pairs.  
-Each time two cards are opened, the number of **"moves"** icons increases.   
-This number shows your attempt to match cards.   
-If a total of 16 cards match, the game ends.   
-When you press the **"Restart"**  icon at the top, the game returns to its initial state.  
+* The purpose of this game is to match all 16 cards in a total of eight pairs.  
+* Each time two cards are opened, the number of **`moves`** icons increases.   
+* This number shows your attempt to match cards.   
+* If a total of 16 cards match, the game ends.   
+* When you press the **`Restart`**  icon at the top, the game returns to its initial state.  
 
 
 ![Alt shuffle_code](./readme_image/game.png)  
 
 
-The card-shuffling function built into this game was provided by Udaity, and the original link to this code is as follows.  
+The card-shuffling function built into this game was provided by Udacity, and the original link to this code is as follows.  
 http://stackoverflow.com/a/2450976  
 
 ![Alt shuffle_code](./readme_image/shuffle.png)
@@ -50,13 +45,13 @@ http://stackoverflow.com/a/2450976
 
 
 1.	Download all files on this GitHub repository.
-2.	Click the index.html file.
+2.	Click the **`index.html`** file.
 3.	Click the card with mouse left button.
-4.	When the cards are matched, the colors of the open cards change to green
+4.	When the cards are matched, the colors of the open cards change to green.
 5.	If the cards don’t match, the open cards will pause for a while and then close again.
 6.	Click and match cards until all cards are opened.
-7.	When all the cards are paired up, the game is over with a message that shows “Congratulations”.
-8.	Press Restart button if you want to do it again  
+7.	When all the cards are paired up, the game is over with a message that shows **`Congratulations`**.
+8.	Press **`Restart`** button if you want to do it again.
 
 
 ![Alt shuffle_code](./readme_image/matching.gif)
@@ -65,9 +60,9 @@ http://stackoverflow.com/a/2450976
 ## Issues/Planed Changes/Roadmap  
 
 
-The star icon next to the number of attempts is a display button for the difficulty that will be added in the next version.  
-The difficulty selection feature is not yet implemented in this game.  
-The next version will be also added a feature to represent the time the user has played.  
+*The star icon next to the number of attempts is a display button for the difficulty that will be added in the next version.  
+*The difficulty selection feature is not yet implemented in this game.  
+*The next version will be also added a feature to represent the time the user has played.  
 
 
 ## Author
